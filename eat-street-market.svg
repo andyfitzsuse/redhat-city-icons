@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="36"
+   height="36"
+   viewBox="0 0 36 36"
+   version="1.1"
+   id="svg"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="eat-street-market.svg"
+   style="fill:none;stroke:#ee0000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#cbccd2"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="18.2212587235"
+     inkscape:cy="19.5465615668"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1280"
+     inkscape:window-height="648"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     guidecolor="#0499c5"
+     guideopacity="1"
+     inkscape:snap-smooth-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="pixels"
+       spacingx="1.5"
+       spacingy="1.5"
+       empspacing="2"
+       empcolor="#404040"
+       empopacity="0.25"
+       color="#dadada"
+       opacity="0.2"
+       originy="0"
+       originx="0" />
+    <sodipodi:guide
+       position="33,33"
+       orientation="0,1"
+       id="g2"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="33,33"
+       orientation="1,0"
+       id="g3"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="3,3"
+       orientation="0,1"
+       id="g4"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="3,21"
+       orientation="1,0"
+       id="guide1016"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3728">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title></dc:title>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path4043"
+     d="M 26.330495828,6.62326520108 C 25.1759650117,6.51642959912 24,7.5 22.5,7.5 m 1.2285917603,-2.29501783031 c 0.9874964333,1.4657057125 -0.6803312353,5.14299121431 0.623717612,7.72719935091 M 21.5328541501,8.77514411793 c -3.9104045846,-3.61985399176 -6.4332915179,11.31181624557 0.2475515362,1.20954027357 -0.05540393,-1.05431250664 -1.1079334492,0.2657006198 -0.2936166384,2.7029654888 M 15.7756357488,5.40060748196 C 6.22264325371,3.59463486815 14.1033080229,10.7543571108 14.2809877026,9.13909438468 9.67142906254,6.79912559642 6.57209931217,22.4603632996 19.3738912011,8.57951832336 M 7.71636925671,16.5 4.50562980152,19.9180174815 v 9.5706226769 L 7.71636925671,31.5 Z m 0,0 v 15 z M 13.5,19.6044976089 17.6333475234,22.5 m -9.91697826669,-6 H 31.5 v 15 H 7.71636925671 Z m 0,0 v 15 z M 25.4,22.5 v 5.8620604641 H 13.5 v -8.7575628552 h 11.9 m 0,0 L 28.3909007347,22.5 H 17.4916783075"
+     inkscape:connector-curvature="0"
+     style="stroke-width:1.5"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccc" />
+</svg>
