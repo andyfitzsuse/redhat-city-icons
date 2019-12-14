@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="36"
+   height="36"
+   viewBox="0 0 36 36"
+   version="1.1"
+   id="svg"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="kurilpa-bridge.svg"
+   style="fill:none;stroke:#ee0000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#cbccd2"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.3137084781"
+     inkscape:cx="14.3283505633"
+     inkscape:cy="27.4314159125"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1280"
+     inkscape:window-height="648"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     guidecolor="#0499c5"
+     guideopacity="1"
+     inkscape:snap-smooth-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="pixels"
+       spacingx="1.5"
+       spacingy="1.5"
+       empspacing="2"
+       empcolor="#404040"
+       empopacity="0.25"
+       color="#dadada"
+       opacity="0.2"
+       originy="0"
+       originx="0" />
+    <sodipodi:guide
+       position="33,33"
+       orientation="0,1"
+       id="g2"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="33,33"
+       orientation="1,0"
+       id="g3"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="3,3"
+       orientation="0,1"
+       id="g4"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="3,21"
+       orientation="1,0"
+       id="guide1016"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3728">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title></dc:title>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccssssscccc"
+     inkscape:connector-curvature="0"
+     d="M 16.982825322,23.5866466371 17.5,21 l 2,-1.9999542952 -6,-9.14096e-5 L 15.5,21 16.1548901848,23.5866466371 M 14,25.125263085 v -0.9825909352 l 1.9540545186,-0.5591017139 h 1.2296064698 L 19,24.1426721498 V 24.874736915 M 31.5,10.5 26.8305247989,19.4999978578 Z M 25.5,9 20.2846299515,16.469443812 Z M 9,9 l 4.8278806734,7.4521005495 z m 13.5,1.5 4.2516532277,9.0000021422 z m -3,-6 -3.0498334471,12.0303423136 z m -15,7.5 2.01819676748,7.5000021421 z m 6,-1.5 -2.8917311935,8.9999978579 z m 23.9999999999,6.0985328688 H 1.5 M 12,19.5 H 1.5 m 32.9999999999,0 H 21 M 4.09376889437,27.81223966 c 0.89583006864,0.1650566185 1.92333268891,0.3194322207 2.63288549206,0.3194322207 1.52464330069,0 2.99262537433,-0.7127532521 4.51726867497,-0.7127532521 1.5246433007,0 2.9926253744,0.7127532521 4.517268675,0.7127532521 1.5246433009,0 2.9926210899,-0.7127532521 4.5172686751,-0.7127532521 1.5246433007,0 2.9926253743,0.7127532521 4.5172686749,0.7127532521 1.5246390163,0 2.9926253743,-0.7127532521 4.5172643908,-0.7127532521 M 14.4617923449,7.52760380129 17.3216912043,16.3776076377 Z"
+     id="path7773-3"
+     style="stroke-width:1.5000001192" />
+</svg>
