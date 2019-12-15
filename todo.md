@@ -33,3 +33,9 @@ Gyoza
 Mount Fuji
 Fushimi Inari Shri
 Blossom
+Noodles
+Tamaki
+Bonzai
+Sumo
+Paper Fan
+Origami
